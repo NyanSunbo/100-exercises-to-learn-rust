@@ -12,3 +12,4 @@ mod tests {
         assert_eq!(intro(), "I'm ready to build a calculator in Rust!");
     }
 }
+
